@@ -1,3 +1,3 @@
 # Trailhead
 
-Whatsup Smiley
+Whatsup SmileyFace
